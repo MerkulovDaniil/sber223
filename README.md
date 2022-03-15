@@ -13,8 +13,8 @@ nav_order: 1
 
 * [🚀 Программа](/program)
 * [🧠 Слушатели](/students)
-* [📺 Zoom](https://us02web.zoom.us/j/82993759915?pwd=YTZwZm9rWnFOWnoyS3owZ0pDZTdVUT09)
-* [📧 Чат](https://t.me/joinchat/UiF_0oDrpWo5N2Ni)
-* [👨‍💻 Github](https://github.com/MerkulovDaniil/sber219)
+* [📺 Zoom](https://us02web.zoom.us/j/85613962633?pwd=S0ZIUmtwNE15L1dSNmhaVXltN3A2dz09)
+* [📧 Чат](https://t.me/+7h6xT8_RuDxmMWQy)
+* [👨‍💻 Github](https://github.com/MerkulovDaniil/sber223)
 
 Март, 2022 г.
