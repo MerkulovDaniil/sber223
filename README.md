@@ -17,4 +17,4 @@ nav_order: 1
 * [📧 Чат](https://t.me/joinchat/UiF_0oDrpWo5N2Ni)
 * [👨‍💻 Github](https://github.com/MerkulovDaniil/sber219)
 
-Сентябрь, 2021 г.
+Март, 2022 г.
