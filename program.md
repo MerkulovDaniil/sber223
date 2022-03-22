@@ -3,9 +3,9 @@ title: 🚀 Программа
 nav_order: 3
 ---
 
-Вводное занятие. [📄 Материалы](/presentations/intro_info.pdf). [📝 Записи](/notes/intro_info.pdf). [📼 Видео](https://drive.google.com/drive/u/1/folders/1P4iOFWDBW9HgzmB_j8-q22sqEcBwWUXp)
+Вводное занятие. [📄 Материалы](/presentations/intro_info.pdf). [📝 Записи](/notes/intro_info.pdf). [📼 Видео](https://drive.google.com/file/d/1B1_Et7x2Rg6CfLdJxpUTxN76stioZ5BM/view?usp=sharing)
 
-## Занятие 1. [📄 Материалы](/presentations/1.pdf). [📝 Записи](/notes/1.pdf). [📼 Видео](https://drive.google.com/drive/u/1/folders/1MId8eLcWAaG0lFSx7IFo661FG73Rl_9V)
+## Занятие 1. [📄 Материалы](/presentations/1.pdf). [📝 Записи](/notes/1.pdf). [📼 Видео](https://drive.google.com/file/d/1TedRS-j3D77muIKsr8fZOBa3PRJYFwx4/view?usp=sharing)
 
 | Обзор приложений задач оптимизации, реальных постановок задач оптимизации и результатов.    | Практика: задача наименьших квадратов. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_1.ipynb){: .btn}      |
 | Знакомство с современными практическими инструментами для оптимизации и анализа данных   | Практика: работа с библиотекой CVXPY [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_2.ipynb){: .btn}      |
