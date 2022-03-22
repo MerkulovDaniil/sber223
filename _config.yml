@@ -4,6 +4,8 @@ url: "https://sber223.fmin.xyz"
 logo: "/images/logo.svg"
 search_enabled: false
 
+exclude: ["/presentations/*.md"]
+
 # Enable or disable heading anchors
 heading_anchors: true
 
