@@ -7,6 +7,7 @@ nav_order: 4
 |----------------------|:------------------:|:---:|
 | Алексей Мальцев    | [🐍 Code](https://colab.research.google.com/drive/1uiL7ATO4r3z2NkYCfRIIoc31tCHuiyzV?usp=sharing){: .btn } | 💎 |
 | Арсений Иванов    | [🐍 Code](https://colab.research.google.com/drive/1l0lpnwd-DtrqOgvjZW95FsAnnTCRpQfr?usp=sharing){: .btn } | 💎 |
+| Елена Кутемова    | [🐍 Code](https://colab.research.google.com/drive/1z5n5TNTsYQeJXSDzc7gYt9W1N4yGgisl?usp=sharing){: .btn } | 💎 |
 | Иван Пронин    | [🐍 Code](https://colab.research.google.com/drive/12fHOfwbNJcKn14oK8D-Y_e4nHK0-4HrZ?usp=sharing){: .btn } | 💎 |
 | Ирина Гудыменко  | [🐍 Code](https://colab.research.google.com/drive/1VjFKw4Ya0xD3cb9DSrJjTqOWzQbU0YAQ?usp=sharing){: .btn } | 💎 |
 | Карина Ким    | [🐍 Code](https://colab.research.google.com/drive/1zGBfy6lQAzsKt2Ccy3EiI_-xKcrzcDf2?usp=sharing){: .btn } | 💎 |
