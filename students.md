@@ -8,7 +8,7 @@ nav_order: 4
 | Алексей Мальцев    | [🐍 Code](https://colab.research.google.com/drive/1uiL7ATO4r3z2NkYCfRIIoc31tCHuiyzV?usp=sharing){: .btn } | 💎 |
 | Арсений Иванов    | [🐍 Code](https://colab.research.google.com/drive/1l0lpnwd-DtrqOgvjZW95FsAnnTCRpQfr?usp=sharing){: .btn } | 💎 |
 | Иван Пронин    | [🐍 Code](https://colab.research.google.com/drive/12fHOfwbNJcKn14oK8D-Y_e4nHK0-4HrZ?usp=sharing){: .btn } | 💎 |
-| Ирина чГудыменко  | [🐍 Code](https://colab.research.google.com/drive/1VjFKw4Ya0xD3cb9DSrJjTqOWzQbU0YAQ?usp=sharing){: .btn } | 💎 |
+| Ирина Гудыменко  | [🐍 Code](https://colab.research.google.com/drive/1VjFKw4Ya0xD3cb9DSrJjTqOWzQbU0YAQ?usp=sharing){: .btn } | 💎 |
 | Карина Ким    | [🐍 Code](https://colab.research.google.com/drive/1zGBfy6lQAzsKt2Ccy3EiI_-xKcrzcDf2?usp=sharing){: .btn } | 💎 |
 | Мария Иванова    | [🐍 Code](https://colab.research.google.com/drive/1zdycxUU9ABxDdHfAReD1Acn6ginCXKtY?usp=sharing){: .btn } | 💎 |
 | Михаил Булкин    | [🐍 Code](https://colab.research.google.com/drive/1ki_S_FPHsakf2tduuz0dIyJvByaJaFHB?usp=sharing){: .btn } | 💎 |
