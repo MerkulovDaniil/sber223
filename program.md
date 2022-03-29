@@ -17,7 +17,7 @@ nav_order: 3
 | Матрично - векторное дифференцирование 2    | Практика: матрично - векторное дифференцирование 2 [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_2.ipynb){: .btn}      |
 | Автоматическое дифференцирование       | Практика: работа с библиотеками для автоматического дифференцирования - `jax`, `pytorch`, `autograd`.  [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_3.ipynb){: .btn}         |
 
-## Занятие 3. [📄 Материалы](/presentations/3.pdf). [📝 Записи](/notes/3.pdf). [📼 Видео]()
+## Занятие 3. [📄 Материалы](/presentations/3.pdf). [📝 Записи](/notes/3.pdf). [📼 Видео](https://drive.google.com/file/d/15d-0yc90-BNrKZjs_ILVQ8gA8A0dUWF8/view?usp=sharing)
 
 | Выпуклость. Выпуклые множества.   | Практика: выпуклость. Выпуклые множества в практических задачах. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/3_1.ipynb){: .btn}      |
 | Выпуклые функции. Сильно выпуклые функции.    | Практика: выпуклые функции. Сильно выпуклые функции. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/3_2.ipynb){: .btn}      |
