@@ -13,6 +13,7 @@ nav_order: 4
 | Мария Иванова    | [🐍 Code](https://colab.research.google.com/drive/1zdycxUU9ABxDdHfAReD1Acn6ginCXKtY?usp=sharing){: .btn } | 💎 |
 | Михаил Булкин    | [🐍 Code](https://colab.research.google.com/drive/1ki_S_FPHsakf2tduuz0dIyJvByaJaFHB?usp=sharing){: .btn } | 💎 |
 | Полина Тарасова    | [🐍 Code](https://colab.research.google.com/drive/1LrUbCTw-Nxjpme3Nlt9Lw68gEDnbre9r?usp=sharing){: .btn } | 💎 |
+| Станислав Демуров    | [🐍 Code](https://colab.research.google.com/drive/1rAF-RfQcrkM4jVE45yAwC8FyVS5SRXt1?usp=sharing){: .btn } | 💎 |
 | Никита Орехов    | [🐍 Code](https://colab.research.google.com/drive/1wyF9VcCc-6x8r5BCX5cEC3lYTLxCF8AD?usp=sharing){: .btn } | 💎 |
 | Никита Трифонов    | [🐍 Code](https://colab.research.google.com/drive/1aNvDp5dz2o6NJJSgTmIscGXNLccgZFBu?usp=sharing){: .btn } | 💎 |
 | Николай Романенков    | [🐍 Code](https://colab.research.google.com/drive/1HoueCRH1JyfV4PbMSEDaPguwcWrJgMvb?usp=sharing){: .btn } | 💎 |
