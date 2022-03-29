@@ -13,7 +13,6 @@ nav_order: 1
 
 * [🚀 Программа](/program)
 * [🧠 Слушатели](/students)
-* [📺 Zoom](https://us02web.zoom.us/j/85613962633?pwd=S0ZIUmtwNE15L1dSNmhaVXltN3A2dz09)
 * [📧 Чат](https://t.me/+7h6xT8_RuDxmMWQy)
 * [👨‍💻 Github](https://github.com/MerkulovDaniil/sber223)
 
