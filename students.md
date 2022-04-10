@@ -12,6 +12,7 @@ nav_order: 4
 | Иван Пронин    | [🐍 Code](https://colab.research.google.com/drive/12fHOfwbNJcKn14oK8D-Y_e4nHK0-4HrZ?usp=sharing){: .btn } | 💎 |
 | Карина Ким    | [🐍 Code](https://colab.research.google.com/drive/1zGBfy6lQAzsKt2Ccy3EiI_-xKcrzcDf2?usp=sharing){: .btn } | 💎 |
 | Мария Иванова    | [🐍 Code](https://colab.research.google.com/drive/1zdycxUU9ABxDdHfAReD1Acn6ginCXKtY?usp=sharing){: .btn } | 💎 |
+| Мария Мальцева    | [🐍 Code](https://colab.research.google.com/drive/1h9qPcceaQ6J72jJTM8chcaSaiuuv6i8Q?usp=sharing){: .btn } | 💎 |
 | Михаил Булкин    | [🐍 Code](https://colab.research.google.com/drive/1ki_S_FPHsakf2tduuz0dIyJvByaJaFHB?usp=sharing){: .btn } | 💎 |
 | Полина Тарасова    | [🐍 Code](https://colab.research.google.com/drive/1LrUbCTw-Nxjpme3Nlt9Lw68gEDnbre9r?usp=sharing){: .btn } | 💎 |
 | Никита Орехов    | [🐍 Code](https://colab.research.google.com/drive/1wyF9VcCc-6x8r5BCX5cEC3lYTLxCF8AD?usp=sharing){: .btn } | 💎 |
