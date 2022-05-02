@@ -3,7 +3,7 @@ title: 🚀 Программа
 nav_order: 3
 ---
 
-Вводное занятие. [📄 Материалы](/presentations/intro_info.pdf). [📝 Записи](/notes/intro_info.pdf). [📼 Видео](https://drive.google.com/file/d/1B1_Et7x2Rg6CfLdJxpUTxN76stioZ5BM/view?usp=sharing)
+Вводное занятие. [📄 Материалы](/presentations/intro_info.pdf). [📝 Записи](/notes/intro_info.pdf). [📼 Видео](https://drive.google.com/file/d/1NlwEeO51tHHZbq5vaiwII2zhyLiAXNJn/view?usp=sharing)
 
 ## Занятие 1. [📄 Материалы](/presentations/1.pdf). [📝 Записи](/notes/1.pdf). [📼 Видео](https://drive.google.com/file/d/1TedRS-j3D77muIKsr8fZOBa3PRJYFwx4/view?usp=sharing)
 
